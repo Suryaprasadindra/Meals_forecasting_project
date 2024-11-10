@@ -6,7 +6,7 @@ developing an effective forecast model to predict orders of meal, so that client
 
 
 **Weekly Demand data (train.csv):**
-Variable	Definition
+Variable	Definition :
 id	Unique ID
 week	Week No
 center_id	Unique ID for fulfillment center
@@ -22,7 +22,7 @@ num_orders	(Target) Orders Count
 
 
 **fulfilment_center_info.csv:**
-Variable	Definition
+Variable	Definition :
 center_id	Unique ID for fulfillment center
 city_code	Unique code for city
 region_code	Unique code for region
@@ -31,7 +31,7 @@ op_area	Area of operation (in km^2)
 
 
 **meal_info.csv**:
-Variable	Definition
+Variable	Definition :
 meal_id	Unique ID for the meal
 category	Type of meal (beverages/snacks/soups….)
 cuisine	Meal cuisine (Indian/Italian/…)
