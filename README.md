@@ -2,6 +2,7 @@
 
 client is having difficulty in predicting number of orders per different meals in different centers. 
 developing an effective forecast model to predict orders of meal, so that client can manage invenory efficiency for future orders.
+Applied Risk pooling - inventory pooling to reduce stock and safety stock levels.
  (this is related to logistics and warehouse analytics subject -term project )
 
 
